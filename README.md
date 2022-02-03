@@ -9,8 +9,3 @@ Currently a junior developer at WSDC, NITW.
 - Embarassing codes(probably in a private repo)
 - A couple on the verge of completing projects, find them in my portfolio [here](https://fatimareefat.github.io/my-portfolio/)
 - Footers having Made with ❤️ by Fatima
-## _What I'm working on_
-- Becoming less frustrated with Git command line
-- Improving Django skills
-- Loving CSS
-- Becoming a MERN developer
